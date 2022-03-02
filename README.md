@@ -1,4 +1,4 @@
 #This Mark Down
 
-Proyecto de Prueba para GitHup
+Proyecto de Prueba para GitHub
 
